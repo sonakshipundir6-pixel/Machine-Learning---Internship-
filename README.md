@@ -60,11 +60,11 @@ flowchart TD
 
 ### 🎓 Training Certificate
 
+![Training Certificate](https://raw.githubusercontent.com/sonakshipundir6-pixel/Machine-Learning---Internship-/main/training.png)
+
 ---
 
 ### 💼 Internship Certificate
-
-> **Note**: To display your certificates, upload your image files (e.g., `training_certificate.png` and `internship_certificate.png`) into an `assets/` or `images/` folder in this repository, then update the file paths above.
 
 ---
 
