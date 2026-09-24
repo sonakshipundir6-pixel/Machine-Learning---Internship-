@@ -65,6 +65,7 @@ flowchart TD
 ---
 
 ### 💼 Internship Certificate
+![Internship Certificate](https://github.com/sonakshipundir6-pixel/Machine-Learning---Internship-/blob/0b9b4d0dbf7c94d446e13cdf815dedef0d676179/internship.png)
 
 ---
 
